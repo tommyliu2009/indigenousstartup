@@ -3,13 +3,13 @@
 > 給原住民族人、部落與原住民族團體的創業資訊網站：創業新聞、計畫成果（創業案例）、補助與貸款、相關政府標案、政策新聞。每日更新，台灣繁體中文。由仁禾管理顧問（劉靜渡，tommyliu2009@gmail.com，LINE ID：tommyliu2009）維護。
 
 ## 主要頁面
-- [首頁](https://web10.subsidyking.tw/)
-- [創業新聞](https://web10.subsidyking.tw/news.html)
-- [計畫成果](https://web10.subsidyking.tw/cases.html)
-- [補助與貸款](https://web10.subsidyking.tw/funding.html)
-- [相關標案](https://web10.subsidyking.tw/tenders.html)
-- [政策新聞](https://web10.subsidyking.tw/policy.html)
-- [關於本站](https://web10.subsidyking.tw/about.html)
+- [首頁](https://web16.subsidyking.tw/)
+- [創業新聞](https://web16.subsidyking.tw/news.html)
+- [計畫成果](https://web16.subsidyking.tw/cases.html)
+- [補助與貸款](https://web16.subsidyking.tw/funding.html)
+- [相關標案](https://web16.subsidyking.tw/tenders.html)
+- [政策新聞](https://web16.subsidyking.tw/policy.html)
+- [關於本站](https://web16.subsidyking.tw/about.html)
 
 ## 主要補助與貸款
 - 原住民族經濟產業貸款（原住民族委員會（原住民族綜合發展基金））：協助原住民個人、團體或法人取得經營事業所需資金，可配合信用保證。申請資格與額度以原民會最新公告為準。
@@ -23,33 +23,33 @@
 - [標案王](https://www.bidking.tw/)：政府標案查詢
 
 ## 最新創業新聞
-- [最高可貸1000萬！原保地貸款新制上路 族人喜憂參半](https://web10.subsidyking.tw/a/5e50ee0fd0.html)（2026-10-16）
-- [「原住民族經濟永續發展計畫－116-117 年度低碳或碳匯示範場域建置計畫」](https://web10.subsidyking.tw/a/a7a0d70cb5.html)（2026-10-14）
-- [原民會115年產業培訓課程第1班開訓 山區特種無人機飛躍登場](https://web10.subsidyking.tw/a/6cafa69582.html)（2026-10-14）
-- [原住民族委員會函轉農業部與國立臺灣大學合作「農業綠領人才基礎課程」](https://web10.subsidyking.tw/a/fe56ce7e7d.html)（2026-10-13）
-- [函轉原住民族委員會將自115年10月21日至11月30日辦理「115年原住民族財務協處一站式服務計畫」下半年度金融進階課程](https://web10.subsidyking.tw/a/413fe48e12.html)（2026-10-12）
-- [轉知財團法人原住民族文化事業基金會辦理「116年度補助申請暨徵件說明會」線上活動資訊](https://web10.subsidyking.tw/a/257f27b33f.html)（2026-10-12）
-- [協助宣傳原住民族委員會「115-116年原住民族產業永續發展與數位轉型培訓計畫」115年度課程招生簡章](https://web10.subsidyking.tw/a/e1aa132206.html)（2026-10-12）
-- [游淑貞深入壽豐池南、光榮拜票 擘劃台九丙線精緻發展願景 串聯農業、觀光與部落創生](https://web10.subsidyking.tw/a/99f9f519e4.html)（2026-10-12）
-- [尋味台東電光部落 品全台首支零碳咖啡與炙燒肉飯糰](https://web10.subsidyking.tw/a/3c776a4817.html)（2026-10-10）
-- [南投奧萬大11月草地野餐音樂會探訪部落文化](https://web10.subsidyking.tw/a/a640b456c2.html)（2026-10-08）
-- [月桃葉熬成精緻工藝！排灣族女工藝家花10年死守土地 遭家人質疑淚吐創業心酸](https://web10.subsidyking.tw/a/e49d24e014.html)（2026-09-25）
-- [從創業看見回家的理由 《Uwah！回家生活吧》 帶你感受族人的生活選擇](https://web10.subsidyking.tw/a/14fa95746f.html)（2026-09-24）
-- [泰雅戰袍加身！江啟臣端原民政見允全額補助微型保險、建文化智慧庫](https://web10.subsidyking.tw/a/98005c23e6.html)（2026-09-23）
-- [日月潭·部落 文創市集 10/31-11/1 伊達邵邵族 × 濁水布農](https://web10.subsidyking.tw/a/2f8fc917bb.html)（2026-09-14）
-- [探訪台東隱藏版美味看阿美族青農用咖啡及飯糰點亮部落](https://web10.subsidyking.tw/a/19ec52f7c6.html)（2026-09-13）
-- [丹娜絲重創玉里！原民會投注1.6億助復建　同步關注部落產業](https://web10.subsidyking.tw/a/5531c0dcce.html)（2026-09-11）
-- [建築人回台東接不到案，轉行烘出冠軍咖啡！到池上「卡琺之谷咖啡製造所」喝咖啡也能認識部落](https://web10.subsidyking.tw/a/ee5287442e.html)（2026-09-11）
-- [谷關9/19超熱鬧！免費烤大豬＋部落市集完成任務再領泡湯券](https://web10.subsidyking.tw/a/32b805ed16.html)（2026-09-10）
-- [苗栗賽夏族部落復育南庄橙 創全台首例取得加工產品專利](https://web10.subsidyking.tw/a/f2011f8085.html)（2026-09-09）
-- [9/11起連3天快閃西門站！「花蓮四季好頻」集結30攤原民市集，闖關再送鳳梨酥、捷運點數](https://web10.subsidyking.tw/a/ecbaa78f09.html)（2026-09-09）
-- [新北原民局ina趕集趣市集登場 邀請市民感受部落土地與飲食智慧](https://web10.subsidyking.tw/a/50c37aeb2e.html)（2026-09-06）
-- [42名原住民歌手同台競藝 TAKAO音雄串聯音樂舞台與原民市集](https://web10.subsidyking.tw/a/3395efdf94.html)（2026-09-05）
-- [2026屏東Mathariri音樂節登場！部落樂舞、黃宣、國際樂團VOB、55攤市集必逛！](https://web10.subsidyking.tw/a/0b4ee71fbb.html)（2026-09-03）
-- [跨海點亮南橫！高雄桃源60族人赴澎湖 取經地方創生激盪原民產業新思維](https://web10.subsidyking.tw/a/06b63bf02b.html)（2026-09-01）
-- [小雨澆不熄「娜荳蘭豐年祭」熱情！張峻走進部落 提青年返鄉、產業品牌化](https://web10.subsidyking.tw/a/df3be00380.html)（2026-08-23）
-- [宜大南澳USR攜手原鄉青農 打造小米六級化產業](https://web10.subsidyking.tw/a/12c7ee161a.html)（2026-08-22）
-- [從災後重建到山林永續 原民會展出16年土地守護成果 8月17日新莊登場](https://web10.subsidyking.tw/a/885b23d2de.html)（2026-08-18）
-- [「太魯閣．山市集」展現部落自主 亞泥助力產業與文化傳承大受青睞](https://web10.subsidyking.tw/a/da330e7b47.html)（2026-08-18）
-- [張峻出席第五屆太魯閣山市集 推動文化、產業與觀光串連讓青年留鄉](https://web10.subsidyking.tw/a/e4fe011654.html)（2026-08-16）
-- [原民重磅歌手開唱！部落食樂園8/20點亮夏夜　選品市集同步登場](https://web10.subsidyking.tw/a/d33de8831f.html)（2026-08-16）
+- [【Tahidang 聆聽部落的聲音】115年度原住民族歌謠採集典藏暨錄音人才培育計畫─招募正式啟動！](https://web16.subsidyking.tw/a/f88b28e43c.html)（2026-10-16）
+- [最高可貸1000萬！原保地貸款新制上路 族人喜憂參半](https://web16.subsidyking.tw/a/5e50ee0fd0.html)（2026-10-16）
+- [「原住民族經濟永續發展計畫－116-117 年度低碳或碳匯示範場域建置計畫」](https://web16.subsidyking.tw/a/a7a0d70cb5.html)（2026-10-14）
+- [桃園拉拉山成臺灣首座國際暗空勝地 張善政：結合星空生態與泰雅文化推動永續觀光](https://web16.subsidyking.tw/a/c49b57e38f.html)（2026-10-14）
+- [原民會115年產業培訓課程第1班開訓 山區特種無人機飛躍登場](https://web16.subsidyking.tw/a/6cafa69582.html)（2026-10-14）
+- [原住民族委員會函轉農業部與國立臺灣大學合作「農業綠領人才基礎課程」](https://web16.subsidyking.tw/a/fe56ce7e7d.html)（2026-10-13）
+- [函轉原住民族委員會將自115年10月21日至11月30日辦理「115年原住民族財務協處一站式服務計畫」下半年度金融進階課程](https://web16.subsidyking.tw/a/413fe48e12.html)（2026-10-12）
+- [轉知財團法人原住民族文化事業基金會辦理「116年度補助申請暨徵件說明會」線上活動資訊](https://web16.subsidyking.tw/a/257f27b33f.html)（2026-10-12）
+- [協助宣傳原住民族委員會「115-116年原住民族產業永續發展與數位轉型培訓計畫」115年度課程招生簡章](https://web16.subsidyking.tw/a/e1aa132206.html)（2026-10-12）
+- [游淑貞深入壽豐池南、光榮拜票 擘劃台九丙線精緻發展願景 串聯農業、觀光與部落創生](https://web16.subsidyking.tw/a/99f9f519e4.html)（2026-10-12）
+- [尋味台東電光部落 品全台首支零碳咖啡與炙燒肉飯糰](https://web16.subsidyking.tw/a/3c776a4817.html)（2026-10-10）
+- [南投奧萬大11月草地野餐音樂會探訪部落文化](https://web16.subsidyking.tw/a/a640b456c2.html)（2026-10-08）
+- [月桃葉熬成精緻工藝！排灣族女工藝家花10年死守土地 遭家人質疑淚吐創業心酸](https://web16.subsidyking.tw/a/e49d24e014.html)（2026-09-25）
+- [從創業看見回家的理由 《Uwah！回家生活吧》 帶你感受族人的生活選擇](https://web16.subsidyking.tw/a/14fa95746f.html)（2026-09-24）
+- [泰雅戰袍加身！江啟臣端原民政見允全額補助微型保險、建文化智慧庫](https://web16.subsidyking.tw/a/98005c23e6.html)（2026-09-23）
+- [日月潭·部落 文創市集 10/31-11/1 伊達邵邵族 × 濁水布農](https://web16.subsidyking.tw/a/2f8fc917bb.html)（2026-09-14）
+- [探訪台東隱藏版美味看阿美族青農用咖啡及飯糰點亮部落](https://web16.subsidyking.tw/a/19ec52f7c6.html)（2026-09-13）
+- [丹娜絲重創玉里！原民會投注1.6億助復建　同步關注部落產業](https://web16.subsidyking.tw/a/5531c0dcce.html)（2026-09-11）
+- [建築人回台東接不到案，轉行烘出冠軍咖啡！到池上「卡琺之谷咖啡製造所」喝咖啡也能認識部落](https://web16.subsidyking.tw/a/ee5287442e.html)（2026-09-11）
+- [谷關9/19超熱鬧！免費烤大豬＋部落市集完成任務再領泡湯券](https://web16.subsidyking.tw/a/32b805ed16.html)（2026-09-10）
+- [苗栗賽夏族部落復育南庄橙 創全台首例取得加工產品專利](https://web16.subsidyking.tw/a/f2011f8085.html)（2026-09-09）
+- [9/11起連3天快閃西門站！「花蓮四季好頻」集結30攤原民市集，闖關再送鳳梨酥、捷運點數](https://web16.subsidyking.tw/a/ecbaa78f09.html)（2026-09-09）
+- [2026屏東Mathariri音樂節登場！部落樂舞、黃宣、國際樂團VOB、55攤市集必逛！](https://web16.subsidyking.tw/a/0b4ee71fbb.html)（2026-09-03）
+- [跨海點亮南橫！高雄桃源60族人赴澎湖 取經地方創生激盪原民產業新思維](https://web16.subsidyking.tw/a/06b63bf02b.html)（2026-09-01）
+- [小雨澆不熄「娜荳蘭豐年祭」熱情！張峻走進部落 提青年返鄉、產業品牌化](https://web16.subsidyking.tw/a/df3be00380.html)（2026-08-23）
+- [宜大南澳USR攜手原鄉青農 打造小米六級化產業](https://web16.subsidyking.tw/a/12c7ee161a.html)（2026-08-22）
+- [從災後重建到山林永續 原民會展出16年土地守護成果 8月17日新莊登場](https://web16.subsidyking.tw/a/885b23d2de.html)（2026-08-18）
+- [「太魯閣．山市集」展現部落自主 亞泥助力產業與文化傳承大受青睞](https://web16.subsidyking.tw/a/da330e7b47.html)（2026-08-18）
+- [原民重磅歌手開唱！部落食樂園8/20點亮夏夜　選品市集同步登場](https://web16.subsidyking.tw/a/d33de8831f.html)（2026-08-16）
+- [張峻出席第五屆太魯閣山市集 推動文化、產業與觀光串連讓青年留鄉](https://web16.subsidyking.tw/a/e4fe011654.html)（2026-08-16）
